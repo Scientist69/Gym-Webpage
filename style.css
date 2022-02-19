@@ -162,7 +162,7 @@ body {
 .cardio{
     /* border: 2px solid red; */
     margin-top: 50px;
-    overflow: scroll;
+    overflow: auto;
 }
 .cardio h1 {
     text-align: center;
@@ -191,7 +191,7 @@ body {
 .weight{
     /* border: 2px solid yellow; */
     margin-top: 50px;
-    overflow: scroll;
+    overflow: auto;
 }
 .weight h1 {
     text-align: center;
@@ -222,7 +222,7 @@ body {
     text-align: center;
     /* border: 2px solid orange; */
     margin-top: 50px;
-    overflow: scroll;
+    overflow: auto;
 }
 
 .aerobics h1{
